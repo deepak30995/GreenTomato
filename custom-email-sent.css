@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    font-size: 1rem;
+    font-weight: 600;
+    background: linear-gradient(to left, rgb(237,237,237),rgb(105, 105, 105));
+}
+
+.header-box{
+    /* background-image: linear-gradient(to right, #033316, #099E44, #79b40b); */
+    background-image: linear-gradient(to right, #a4152c, #fa6b82);
+}
+
+.brand-name{
+    color: white;
+    position: absolute;
+    margin: -66px 94px;
+    font-size: 2rem;
+}
+
+p.green{
+    color: #76d10e;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+span.tomato{
+    color: #fff;
+}
+
+p.email-sent-text {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 1.2r4;
+    position: absolute;
+    margin: 25px 0px 0px 46px;
+    text-align: center!important;
+}
+
+p.email-sent-sub-txt {
+    position: absolute;
+    margin: 89px 0px 0px -31px;
+    color: #757474;
+    font-size: 14px;
+    text-align: center;
+}
+
+p.email-sent-sub-txt1 {
+    position: absolute;
+    margin: 160px 0px 0px -16px;
+    color: #757474;
+    font-size: 14px;
+    text-align: center!important;
+}
+
+.middle-email-sent-box {
+    /* background: rgb(206, 206, 40); */
+    height: 450px;
+    width: 430px;
+    margin: auto;
+    margin-top: 100px;
+    /* background: linear-gradient(to bottom, #ffa31a, #ffc369); */
+    background: #fff;
+    box-shadow: -20px 23px 15px 2px rgba(7, 7, 7, 0.18);
+}
+
+
+.email-sent-upper-content{
+    padding: 2vw 4vw 4vw;
+    background: #76d10e;
+    /* background: #1cc7d0; */
+    /* #1ae76c */
+}
+
+.middle-email-sent-box form {
+    background: #fff;
+    margin: -2.5em 3em 1em;
+    padding: 4em;
+    box-shadow: 2px 5px 16px 2px rgba(16, 16, 16, 0.18);
+    border-radius: 5px;
+    height: 330px;
+}
+
+.mid-sub-text {
+    margin: -27px 0;
+}
+
+a.back-to-login-btn {
+    position: absolute;
+    color: #757474;
+    font-size: 16px;
+    display: inline-block;
+    margin: 8px 0px 42px 165px;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
